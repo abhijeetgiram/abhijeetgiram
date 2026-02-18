@@ -83,7 +83,7 @@ I am a <b>Full-Stack Developer</b> and <b>AI Enthusiast</b> focused on building 
 
 ---
 
-🚀 Portfolio: [Construction in Progress] — Deploying soon via Vercel
+🚀 Portfolio: [Construction in Progress] — https://abhijeet-giram.vercel.app/
 
 ---
 
