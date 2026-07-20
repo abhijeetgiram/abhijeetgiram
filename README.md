@@ -1,9 +1,9 @@
 # Hi there, I'm Abhijeet Giram 👋
 
-### 🚀 Full-Stack Developer | JS Enthusiast | AI Integrator
+### 🚀 Full-Stack Engineer | JS Enthusiast | AI Integrator
 
 <p>
-I am a <b>Full-Stack Developer</b> and <b>AI Enthusiast</b> focused on building high-performance web applications and exploring the intersection of AI and user experience. Currently, I am deep-diving into the world of LLMs and modern frontend and backend architectures.
+I am a <b>Full-Stack Engineer</b> and <b>AI Enthusiast</b> focused on building high-performance web applications and exploring the intersection of AI and user experience. Currently, I am deep-diving into the world of LLMs and modern frontend and backend architectures.
 </p>
 
 ---
