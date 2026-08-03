@@ -74,6 +74,7 @@ I am a <b>Full-Stack Engineer</b> and <b>AI Enthusiast</b> focused on building h
 
 ### 📝 Latest Blog Posts
 * [Demystifying Next.js Server Components](https://medium.com/@abhijeetgiram/the-next-js-magic-trick-why-can-i-see-server-components-in-my-browser-eacb58a7ec18)
+* [What It Really Means to Be AI Fluent](https://medium.com/@abhijeetgiram/beyond-access-what-it-really-means-to-be-ai-fluent-fa2bb6fe0d07)
 * *Coming soon: Building Microservices with Node.js*
 
 ---
